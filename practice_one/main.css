@@ -1,0 +1,19 @@
+.card_toster {
+  padding: 10px;
+  max-width: 500px;
+  max-height: 500px;
+  border: blue 6px double;
+}
+.card_toster__title {
+  color: blue;
+  font-family: Georgia;
+}
+.card_toster__description {
+  color: blue;
+  font-family: Georgia;
+}
+.card_toster__img {
+  width: 100%;
+  height: 100%;
+}
+/*# sourceMappingURL=main.css.map */

@@ -12,11 +12,6 @@ node_modules/
 *.swo
 *~
 
-# Директории с результатами сборки
-dist/
-build/
-out/
-
 # Файлы ОС
 .DS_Store
 .DS_Store?

@@ -1,0 +1,13 @@
+{
+  "name": "Frontend-and-backend-development",
+  "version": "1.0.0",
+  "description": "",
+  "main": "../practice_two/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "dependencies": {
+    "less": "^4.5.1"
+  }
+}
