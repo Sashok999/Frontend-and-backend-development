@@ -1,0 +1,47 @@
+# Директория зависимостей
+node_modules/
+
+# Настройки WebStorm / IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+.idea_modules/
+
+# Временные файлы редактора
+*.swp
+*.swo
+*~
+
+# Директории с результатами сборки
+dist/
+build/
+out/
+
+# Файлы ОС
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Локальные файлы БД (из вашей структуры)
+data/
+schema/
+schema.layouts/
+
+# Логи и отладочные файлы
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Локальные конфигурационные файлы
+.env
+.env.local
+.env.*.local
+
+# Папки для временных файлов
+tmp/
+temp/
